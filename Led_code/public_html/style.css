@@ -1,0 +1,67 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+
+}
+
+header{
+    background-position: center;
+    background-color: indigo;
+}
+
+
+h1{
+    margin-top: 50px;
+    text-align: center;
+}
+h3{
+    font-size:large;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 200px;
+    
+    
+}
+ol{
+    font-size: large;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+ul{
+    font-size: large;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 200px;
+    
+}
+p{
+    font-size: large;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 200px;
+}
+
+form{
+    margin: 300px;
+    margin-top: 5px;
+}
+form label{
+    display: inline-block;
+    margin: 0px 0px;
+}
+
+body {
+    margin:50px 0px; padding:0px;
+    
+    align:center;
+}
+
+ul li a{
+    text-decoration-color: blue;
+    padding: 5px 10px;
+    
+}
